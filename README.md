@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Dũng Trần
 #### I am a JavaScript Developer with 10 years of experience. 
-![I am a JavaScript Developer with 10 years of experience. ](https://github.com/sinhquan/sinhquan.github.io/blob/main/hinh%20cty%20dep.jpg)
+![I am a JavaScript Developer with 10 years of experience. ](https://github.com/sinhquan/sinhquan/blob/main/hinh%20cty%20dep.jpg)
 
 I am working on a variety of different javascript-related projects - websites, single-page applications, mobile applications,
 
