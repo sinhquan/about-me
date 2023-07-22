@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a JavaScript Developer with 10 years of experience. 
 
 <!--
 **sinhquan/sinhquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
