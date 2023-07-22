@@ -10,7 +10,7 @@ Skills: VANILLA JS / TYPESCRIPT / REACT / NodeJS/ AWS / JS / HTML / CSS / SCSS
 - 🌱 I’m currently learning Phaser.js, Three.js, typescript 
 - 👯 I’m looking to collaborate on web casual game development 
 - 💬 Ask me about react.js / wordpress / js / css / html 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinhquan/) | [Twitter](https://twitter.com/dzungtmb) | [Medium](https://medium.com/@sinhquan) | [Dev.to](https://dev.to/sinhquan) 
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/sinhquan/) | [Twitter](https://twitter.com/dzungtmb) | [Medium](https://medium.com/@sinhquan84) | [Dev.to](https://dev.to/sinhquan) 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sinhquan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev' height='40'>](https://dev.to/sinhquan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sinhquan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/dzungtmb)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/sinhquan84)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/9739541)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://codesandbox.io/u/sinhquan)  
