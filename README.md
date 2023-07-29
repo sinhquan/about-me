@@ -19,7 +19,8 @@ Skills: ReactJS/ VueJS / Angular / TYPESCRIPT / React Native / NodeJS / GraphQL 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinhquan&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/sinhquan)
+<!--![Profile views](https://gpvc.arturio.dev/sinhquan)-->
+[Profile views](https://sinhquan.github.io)
 
 <!--
 **sinhquan/sinhquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
