@@ -1,10 +1,10 @@
 ### Hi there 👋, my name is Dũng Trần
-#### I am a JavaScript Developer with 10 years of experience. 
+#### I am a JS Fullstack Developer with 10 years of experience. 
 ![I am a JavaScript Developer with 10 years of experience. ](/hinh%20cty%20dep.jpg)
 
 I am working on a variety of different javascript-related projects - websites, single-page applications, mobile applications,
 
-Skills: VANILLA JS / TYPESCRIPT / REACT / NodeJS/ AWS / JS / HTML / CSS / SCSS
+Skills: ReactJS/ VueJS / Angular / TYPESCRIPT / React Native / NodeJS / GraphQL / AWS / JS / HTML / CSS / SCSS
 
 - 🔭 I’m currently working on [FirstGameAI](https://github.com/sinhquan/FirstGameAI) 
 - 🌱 I’m currently learning Phaser.js, Three.js, typescript 
@@ -19,7 +19,7 @@ Skills: VANILLA JS / TYPESCRIPT / REACT / NodeJS/ AWS / JS / HTML / CSS / SCSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sinhquan&show_icons=true)  
 
-![Profile views](https://sinhquan.github.io)  
+![Profile views](https://sinhquan.github.io/)
 
 <!--
 **sinhquan/sinhquan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
